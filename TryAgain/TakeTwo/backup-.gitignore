@@ -3,9 +3,3 @@
 
 # Ignore Gradle build output directory
 build
-
-# Ignore IDE directory
-.idea
-
-# Ignore local properties
-gradle-local.properties
